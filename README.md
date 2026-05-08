@@ -10,7 +10,7 @@
         Навыки: Системное мышление, логический анализ, работа с базами данных и информационными структурами.
 - 💻 Стек технологий: SQL(MySQL), Python (Pandas), Excel.
   
-  Мои проекты можно посмотреть [здесь](https://github.com/Sklarone/data_analyst_portfolio)
+  Мои проекты можно посмотреть [здесь](https://github.com/LysenkoMax/data_analyst_portfolio)
 
 ## Для связи со мной
 
