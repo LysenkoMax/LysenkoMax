@@ -1,16 +1,17 @@
-## Hi there 👋
+# Привет 🤝 
 
-<!--
-**LysenkoMax/LysenkoMax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Максим, я аналитик данных и буду рад принести пользу вашему проекту.
 
-Here are some ideas to get you started:
+## Немного про меня
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 Сфера интересов: анализ пользовательского поведения, визуализация данных, оптимизация ресурсов и логистики, а также аналитическая поддержка устойчивого развития.
+- 📖 Окончил магистратуру Санкт-Петербургский политехнический университет Петра Великого по международной программе "Количественные финансы", освоив аналитические и количественные методы, моделирование, обработку и визуализацию данных.  
+- 💻 Стек технологий: Python (анализ данных (Pandas, NumPy), визуализация (Matplotlib, Seaborn, Plotly)), SQL(PostgreSQL), Tableu, Excel и так далее.
+- 🏆 Работал аналитиком в компании из Словении🇸🇮.
+  
+  Мои проекты можно посмотреть [здесь](https://github.com/Sklarone/data_analyst_portfolio)
+
+## Для связи со мной
+
+- Telegram: https://t.me/sasha_baklosan
+- Email: niksklyr@gmail.com 
