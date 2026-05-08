@@ -16,4 +16,3 @@
 
 - ВКонтакте https://vk.com/fukd3_2k1
 - Telegram: https://t.me/sasha_baklosan
-- Email: lmo-2006@mail.ru
